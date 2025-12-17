@@ -1,6 +1,4 @@
-# Gestión_Ventas_Node
-# Sistema de Gestión de Ventas
-
+# Sistema de Gestión de Ventas_Node
 Aplicación web fullstack para la gestión de productos, clientes y facturación.
 
 ## Tecnologías
